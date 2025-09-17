@@ -1,0 +1,13 @@
+name = "Dumber Server"
+author = "Jesse Wierzbinski"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2705294a1509950db20b10ea9c7115ab28d68b0e4338a397af5ac722686c4448"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.7"
