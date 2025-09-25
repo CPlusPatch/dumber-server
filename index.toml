@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "f49426b0de8bc4289b9ab9d6c51c27b696be00e04691dbaa524b94be2602f8e2"
+
+[[files]]
 file = "mods/amplified-nether-height.pw.toml"
 hash = "9fb0bb83d8818d33f326b68c49d7a5d26c3005b8e6893c16bf044e95e3ac59d5"
 metafile = true
@@ -22,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6dee7917c9156b4281bec000688abfa299a11e118fba9817966832e02f148d68"
+hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
 metafile = true
 
 [[files]]
@@ -42,17 +46,17 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "03d1bbd443c88f2948a7295a49fb7114e07b61bb777188630718eae3635ce1a8"
+hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f5e1d5170bc2f714620713abf774574a787cf9ffb8bc627bc922e408e86344e1"
+hash = "70eca7a3ed87d61d31429fc5606a75eb9f3317016b1fecc8e985fc2d0bc3a127"
 metafile = true
 
 [[files]]
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "36d3f5054974aa0abfd8edb01d7b99d41497c90559e52485dbc0d1e420f4bba0"
+hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
 metafile = true
 
 [[files]]
@@ -77,17 +81,17 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "90f8fd0ab4afd6b323cc4dd945b4c6d162b9e7cd9a2694afcc170c52213e303d"
+hash = "514db9f2e9dacaf7d9caf33a3e3c9b23b13940114c3559febb51a933adb0dd20"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
+hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
 metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "98fc73ebbf673bcc8eb4ad0c3ef8b3510ffd0a6d106cbde43d6bc8a58f31a415"
+hash = "ca28357788768f15bfb2f5d15c9b4e29f50c0fd183ab7bfabdf263bff48ec4b8"
 metafile = true
 
 [[files]]
@@ -97,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a04338ef93757875028cc1f2f7287199b3e7024c906af6ee53437d8c8a7f9f06"
+hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
 metafile = true
 
 [[files]]
@@ -112,12 +116,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "1590859a8c09f8c5a518415e6304dd493f1eb019ce13a317e805d79c08d9e4a2"
+hash = "4f25b7f9be48460961100d0d872cf010486c751f3260095697e123118b548ec8"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "40630d6f1fdd0011a3aa9270af99b331103a9eaed6e7832650e85b325a50bc85"
+hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "4f1450528c5440f70360608ef1e26c38f4c161321fda5d907457b6d781bdbdda"
 metafile = true
 
 [[files]]
@@ -127,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
 metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "b91f3b997455b6fcb2a385b29f75a9f86f1c254c652ac48b88c5d4a36aad437f"
+hash = "711c23a183e2e3e84b12c812f4d621941559e9d73a3a47f3be440c03d83defd8"
 metafile = true
 
 [[files]]
