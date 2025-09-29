@@ -40,6 +40,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "8e33058687b62db4582bc510ce228b635e4192a8b5a597b08783ed68825bce48"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
